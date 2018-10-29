@@ -8,29 +8,51 @@
 	>
 
 <channel>
-	<title>veritenze &#8211; Veritenze</title>
+	<title>Veritenze &#8211; Veritenze</title>
 	<atom:link href="https://veritenze.com/author/veritenze/feed/" rel="self" type="application/rss+xml" />
 	<link>https://veritenze.com</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 28 Oct 2018 21:48:06 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Mon, 29 Oct 2018 19:55:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>https://veritenze.com/2018/10/28/hello-world/</link>
-		<comments>https://veritenze.com/2018/10/28/hello-world/#comments</comments>
-		<pubDate>Sun, 28 Oct 2018 21:48:06 +0000</pubDate>
-		<dc:creator><![CDATA[veritenze]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https://veritenze.com/?p=1</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<image>
+	<url>https://veritenze.com/wp-content/uploads/2018/10/cropped-icon-32x32.png</url>
+	<title>Veritenze &#8211; Veritenze</title>
+	<link>https://veritenze.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Trivia with Veritenze: Seed of Amaranth, Part 1</title>
+		<link>https://veritenze.com/2018/10/29/trivia-with-veritenze-seed-of-amaranth-part-1/</link>
+		<pubDate>Mon, 29 Oct 2018 19:55:34 +0000</pubDate>
+		<dc:creator><![CDATA[Veritenze]]></dc:creator>
+				<category><![CDATA[Seed of Amaranth]]></category>
+		<category><![CDATA[Trivia]]></category>
+		<category><![CDATA[amaranth]]></category>
+		<category><![CDATA[seed of amaranth]]></category>
+		<category><![CDATA[trivia]]></category>
+		<category><![CDATA[veritenze]]></category>
+
+		<guid isPermaLink="false">https://veritenze.com/?p=115</guid>
+		<description><![CDATA[Insert interesting trivia.]]></description>
+				<content:encoded><![CDATA[<p>Insert interesting trivia.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://veritenze.com/2018/10/28/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
+			</item>
+		<item>
+		<title>New website!</title>
+		<link>https://veritenze.com/2018/10/29/new-website/</link>
+		<pubDate>Mon, 29 Oct 2018 19:54:09 +0000</pubDate>
+		<dc:creator><![CDATA[Veritenze]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">https://veritenze.com/?p=113</guid>
+		<description><![CDATA[Placeholder.]]></description>
+				<content:encoded><![CDATA[<p>Placeholder.</p>
+]]></content:encoded>
+			</item>
 	</channel>
 </rss>

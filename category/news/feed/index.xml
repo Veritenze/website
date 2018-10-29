@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Veritenze</title>
-	<atom:link href="https://veritenze.com/feed/" rel="self" type="application/rss+xml" />
+	<title>News &#8211; Veritenze</title>
+	<atom:link href="https://veritenze.com/category/news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://veritenze.com</link>
 	<description></description>
 	<lastBuildDate>Mon, 29 Oct 2018 19:55:34 +0000</lastBuildDate>
@@ -20,29 +20,12 @@
 
 <image>
 	<url>https://veritenze.com/wp-content/uploads/2018/10/cropped-icon-32x32.png</url>
-	<title>Veritenze</title>
+	<title>News &#8211; Veritenze</title>
 	<link>https://veritenze.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Trivia with Veritenze: Seed of Amaranth, Part 1</title>
-		<link>https://veritenze.com/2018/10/29/trivia-with-veritenze-seed-of-amaranth-part-1/</link>
-		<pubDate>Mon, 29 Oct 2018 19:55:34 +0000</pubDate>
-		<dc:creator><![CDATA[Veritenze]]></dc:creator>
-				<category><![CDATA[Seed of Amaranth]]></category>
-		<category><![CDATA[Trivia]]></category>
-		<category><![CDATA[amaranth]]></category>
-		<category><![CDATA[seed of amaranth]]></category>
-		<category><![CDATA[trivia]]></category>
-		<category><![CDATA[veritenze]]></category>
-
-		<guid isPermaLink="false">https://veritenze.com/?p=115</guid>
-		<description><![CDATA[Insert interesting trivia.]]></description>
-				<content:encoded><![CDATA[<p>Insert interesting trivia.</p>
-]]></content:encoded>
-			</item>
-		<item>
 		<title>New website!</title>
 		<link>https://veritenze.com/2018/10/29/new-website/</link>
 		<pubDate>Mon, 29 Oct 2018 19:54:09 +0000</pubDate>
