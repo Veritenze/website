@@ -12,7 +12,7 @@
 	<atom:link href="https://veritenze.com/category/news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://veritenze.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 29 Oct 2018 22:31:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Oct 2018 02:12:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -33,8 +33,12 @@
 				<category><![CDATA[News]]></category>
 
 		<guid isPermaLink="false">https://veritenze.com/?p=113</guid>
-		<description><![CDATA[Placeholder.]]></description>
-				<content:encoded><![CDATA[<p>Placeholder.</p>
+		<description><![CDATA[After trying to get by with only Twitter and Patreon, we have finally decided to launch our own website! With this, we hope that it will be easier for people to learn about our game and interact with our growing community. We will be working hard to keep this site<a class="moretag" href="https://veritenze.com/2018/10/29/new-website/"> Read more&#8230;</a>]]></description>
+				<content:encoded><![CDATA[<p>After trying to get by with only Twitter and Patreon, we have finally decided to launch our own website! With this, we hope that it will be easier for people to learn about our game and interact with our growing community. We will be working hard to keep this site updated with new content!</p>
+<p>&nbsp;</p>
+<p>With the launch of this new website, we will be doing things that we never could before. We will be maintaining a development blog, outside of Patreon, that will not only keep you updated on future projects and developments, but also share stories about creating our games, trivia about our characters, and alternate storylines that we ultimately decided against (although, there&#8217;s no telling what the future may bring). We are also aiming to get a regular Q&amp;A session going there, where we respond to questions that are sent in by our community. (If you are interested, send an email with your questions to contactVeritenze@gmail.com!)</p>
+<p>&nbsp;</p>
+<p>We look forward to engaging with you all, and getting to introduce new fans to our games!</p>
 ]]></content:encoded>
 			</item>
 	</channel>
