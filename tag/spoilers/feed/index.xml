@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>trivia &#8211; Veritenze</title>
-	<atom:link href="https://veritenze.com/tag/trivia/feed/" rel="self" type="application/rss+xml" />
+	<title>spoilers &#8211; Veritenze</title>
+	<atom:link href="https://veritenze.com/tag/spoilers/feed/" rel="self" type="application/rss+xml" />
 	<link>https://veritenze.com</link>
 	<description></description>
 	<lastBuildDate>Tue, 30 Oct 2018 17:49:25 +0000</lastBuildDate>
@@ -20,7 +20,7 @@
 
 <image>
 	<url>https://veritenze.com/wp-content/uploads/2018/10/cropped-icon-32x32.png</url>
-	<title>trivia &#8211; Veritenze</title>
+	<title>spoilers &#8211; Veritenze</title>
 	<link>https://veritenze.com</link>
 	<width>32</width>
 	<height>32</height>
