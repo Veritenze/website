@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>requests &#8211; Veritenze</title>
+	<atom:link href="https://veritenze.com/tag/requests/feed/" rel="self" type="application/rss+xml" />
+	<link>https://veritenze.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 03 Dec 2018 16:17:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://veritenze.com/wp-content/uploads/2018/10/cropped-icon-32x32.png</url>
+	<title>requests &#8211; Veritenze</title>
+	<link>https://veritenze.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dear streamers:</title>
+		<link>https://veritenze.com/2018/12/03/dear-streamers/</link>
+		<pubDate>Mon, 03 Dec 2018 14:57:12 +0000</pubDate>
+		<dc:creator><![CDATA[Veritenze]]></dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Seed of Amaranth]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[requests]]></category>
+		<category><![CDATA[streamers]]></category>
+		<category><![CDATA[streaming]]></category>
+
+		<guid isPermaLink="false">https://veritenze.com/?p=261</guid>
+		<description><![CDATA[We&#8217;ve gotten a lot of emails from streamers lately, asking for permission to stream our game. We&#8217;d like to make this clear: Anyone is welcome to stream any of our games, no permission needed! We are avid supporters of our community, and we are grateful to anyone who likes our<a class="moretag" href="https://veritenze.com/2018/12/03/dear-streamers/"> Read more&#8230;</a>]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;ve gotten a lot of emails from streamers lately, asking for permission to stream our game. We&#8217;d like to make this clear: Anyone is welcome to stream any of our games, no permission needed! We are avid supporters of our community, and we are grateful to anyone who likes our games enough to share them with others.</p>
+<p>&nbsp;</p>
+<p>On a related note, we are more than happy to distribute keys to Steam curators, through the Curator Connect feature. Please understand that we do not directly distribute key codes through email or any other means so as to prevent piracy.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
